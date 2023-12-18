@@ -192,3 +192,5 @@ Existen diferentes tipos de funciones de temporización, cada una con su propio 
 - **Ease-in-out**: Esta función de temporización combina las características de las funciones Ease-in y Ease-out. La animación comienza lentamente, se acelera en el medio y luego se desacelera al final.
 
 Además de estas funciones de temporización básicas, también es posible crear funciones de temporización personalizadas utilizando la función cubic-bezier(). Esta función permite definir puntos de control para crear curvas de aceleración y desaceleración más complejas.
+
+## Finalize este curso en 4h
