@@ -1,5 +1,7 @@
 # Curso de Transformaciones y Transiciones en CSS
 
+[Github Pages](https://velasco1704.github.io/curso-transformaciones-transiciones-css/)
+
 ## Propiedades para crear animaciones con CSS y propiedades animable
 
 - Transform: La propiedad **transform** en CSS permite aplicar transformaciones 2D o 3D a un elemento. Puedes usarla para rotar, escalar, sesgar, trasladar y aplicar otros efectos visuales a un elemento. Algunos valores comunes para esta propiedad son **rotate()**, **scale()**, **skew()**, **translate(),** entre otros. La propiedad **transform-origin** se utiliza para cambiar la posición de los elementos transformados en relación con su origen. Esto puede afectar cómo se aplican las transformaciones.
@@ -148,6 +150,8 @@ En este ejemplo, se aplica una rotación de 180 grados al elemento en el eje Y, 
 Es importante tener en cuenta que la propiedad **backface-visibility** solo tiene efecto en elementos que tienen una transformación 3D aplicada. Si no se aplica ninguna transformación 3D, esta propiedad no tendrá ningún efecto visible.
 
 ## Efecto Parallax
+
+[Parallax Example](https://velasco1704.github.io/parallax-effect/)
 
 El efecto parallax es una técnica utilizada en diseño y desarrollo web para crear una sensación de profundidad y movimiento en una página. Se logra al mover diferentes elementos de la página a diferentes velocidades mientras el usuario se desplaza por ella. Esto crea una ilusión de profundidad y añade un aspecto dinámico a la experiencia de navegación.
 
